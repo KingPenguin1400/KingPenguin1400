@@ -1,6 +1,10 @@
 ## Hi there 👋
 
+I am **Adrian/KingPenguin1400** and this is my ✨ _special_ ✨ repo because it is on my _GitHub profile_!
 
+- 📫 How to reach me: _<a href="contact-me@adriangastelo.com">contact-me@adriangastelo.com</a>_
+
+<!--
 **KingPenguin1400/KingPenguin1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
